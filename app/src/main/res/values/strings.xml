@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">dublin bikes</string>
+    <string name="app_logo">bike logo</string>
+    <string name="enter">enter button</string>
+    <string name="back_button">back button</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mapButton">Map</string>
+
+</resources>
